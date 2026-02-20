@@ -19,4 +19,4 @@ This project performs basic arithmetic operations such as addition, subtraction,
 2. Open terminal
 3. Run the following command:
 
-python calculator.py
+calculator-python.py
